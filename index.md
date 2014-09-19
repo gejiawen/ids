@@ -1,3 +1,7 @@
+# This file is deprecated!
+
+--------
+
 # 集成开发解决方案 - 前端系列
 
 
